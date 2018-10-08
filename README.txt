@@ -2,9 +2,9 @@
 Contributors: sofyansitorus
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DGSVXLV7R8BTY
 Tags: Gravity Form, Gravity Form Entry
-Requires at least: 3.0.1
+Requires at least: 3.7
 Tested up to: 4.9.8
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ Gravity Form Disable Storing Entry
 
 == Description ==
 
-By default, Gravity Forms was designed to record all data submitted into the database, so this plugin will delete the entry data upon submission.
+By default, Gravity Form was designed to record all data submitted into the database, so this plugin will delete the entry data upon submission.
 
 == Installation ==
 
@@ -34,3 +34,6 @@ In the search field type "Gravity Form Disable Storing Entry" and click Search P
 
 = 1.0.0 =
 * Initial release.
+
+= 1.1.0 =
+* Improvements - Added compatibility for Gravity Form 1.7 and earlier.
